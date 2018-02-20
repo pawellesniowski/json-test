@@ -1,17 +1,11 @@
-[
-  {
-    "id": 1,
-    "name": "John",
-    "age": 21
-  },
-   {
-    "id": 2,
-    "name": "Sara",
-    "age": 23
-  },
-  {
-    "id": 3,
-    "name": "Anna",
-    "age": 18
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
